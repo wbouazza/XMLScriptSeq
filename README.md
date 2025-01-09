@@ -1,2 +1,2 @@
 # XMLScriptSeq
-a Simple Serious Game Engine in Python
+About: A simple Python interpreter for XML scripted sequences
